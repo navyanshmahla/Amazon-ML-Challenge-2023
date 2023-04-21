@@ -31,7 +31,7 @@ The columns provided in the dataset are as follows:
 
 ### Evaluation Metric
 
-``` score = max( 0 , 100*(1-metrics.mean_absolute_percentage_error(actual,predicted))) ```python
+``` score = max( 0 , 100*(1-metrics.mean_absolute_percentage_error(actual,predicted))) ```
 
 ### Result submission guidelines
 
