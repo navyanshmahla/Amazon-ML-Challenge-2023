@@ -44,3 +44,6 @@ The columns provided in the dataset are as follows:
 - Correct index values as per the test file
 - Correct names of columns as provided in the sample_submission.csv file
 
+# Result
+We were placed **Globally 180th** among 26,000+ globally registered teams!
+
